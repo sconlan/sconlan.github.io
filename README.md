@@ -1,4 +1,3 @@
 # sconlan.github.io
-sconlan personal page
-
-This is a test page
+![Sean Conlan](Conlan_head_2018MIVE_sm_rnd.png "Sean Conlan")
+Sean Conlan, PhD
