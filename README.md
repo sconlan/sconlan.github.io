@@ -3,4 +3,4 @@
 
 * Computational Biologist
 * Perl Programmer
-* https://publons.com/researcher/1172708/sean-conlan/
+* [Publons](https://publons.com/researcher/1172708/sean-conlan/)
